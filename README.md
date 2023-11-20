@@ -2,9 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Microsoft Azure SIEM](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/T-Lamour/ActiveDirectoryLab/tree/main)
+  - [Nessus Vulnerability Manager](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
   <h2>📺 Certifications</h2>
