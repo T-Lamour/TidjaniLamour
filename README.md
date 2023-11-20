@@ -12,7 +12,7 @@
 - [Microsoft MTA Security](https://www.credly.com/badges/208aaf54-0e56-433f-9134-9fb752d1fece/public_url)
 - [CompTIA Network +](https://www.credly.com/badges/e6f10dde-a1a7-448d-807a-7fd805db582b/public_url)
 - [CompTIA Security +](https://www.credly.com/badges/34da64e7-b062-4797-b802-d60563b41f99/public_url)
-- [CEH - exp 01/24]
+- CEH - exp 01/24
 
 <h2> 🤳 Connect with me:</h2>
 
