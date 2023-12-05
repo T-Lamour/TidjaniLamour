@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tidjani! </h1>
+<h1>Hey, it's TJ! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
